@@ -1,0 +1,77 @@
+*{
+	margin: 0 ;
+}
+
+
+.contenedor{
+	width: 270px;
+	margin: 0 auto;
+	border-radius: 14px;
+	border: 2px solid gray;
+}
+
+.imagen{
+	position: relative;
+}
+
+.imag{
+	height: 350px;
+	width: 100%;
+	border-radius: 14px;
+
+}
+
+.noches{
+	padding: 4px;
+	background-color: purple;
+	width:  63px;
+	position: absolute;
+	bottom: -5px;
+	left: 25px;
+	color: white;
+}
+
+.margin{
+	margin-top: 4px;
+}
+
+.descripcion{
+	padding: 16px;
+}
+
+.vuelo{
+	text-transform: uppercase;
+	font-size: 8px;
+	
+}
+
+.paquete{
+	font-size: 19px;
+	margin-top: 4px;
+
+}
+
+.puntuacion{
+	width: 25px;
+	background-color: purple;
+	color: white;
+	margin: 0;
+	padding: 6px;
+}
+
+.boton{
+	border: 2px solid gray;
+	border-radius: 4px;
+	background-color: white;
+}
+
+.pie{
+	border-top: 2px solid gray;
+	padding: 16px;
+
+}
+
+.porpersona{
+	font-size: 8px;
+	height: 100%;
+}
